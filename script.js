@@ -115,4 +115,4 @@ function tile_land() {
 
 tiles();
 move_tile();
-console.log(i);
+//console.log(i);
